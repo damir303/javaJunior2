@@ -13,6 +13,7 @@ public class Main3 {
             System.out.println("Введите нормальные числа");
         }
 
-        System.out.println("конец");
+
+        System.out.println("Конец програаммы");
     }
 }
